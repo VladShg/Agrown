@@ -1,0 +1,70 @@
+form.auth-form {
+    margin: 0 auto;
+    width: 45%;
+    padding: 60px;
+    background: #9DE0AD;
+}
+
+div.body {
+    padding: 20px 40px;
+    width: 90%;
+}
+
+ul.header li a {
+    height: 38px;
+}
+
+form h2 {
+    text-align: center;
+}
+
+form div.submit {
+    text-align: center;
+}
+
+form div.submit button{
+    min-width: 80px;
+}
+
+li.li-left {
+    float: left;
+}
+
+li.li-right {
+    float: right;
+}
+
+ul.header {
+    overflow: hidden;
+    background: #594F50;
+}
+
+ul.header li {
+    padding: 20px;
+    display: block;
+}
+
+li a {
+    color: white;
+}
+
+li a:hover {
+    color: white;
+}
+
+li.list-group-item a {
+    color: black;
+}
+
+li.list-group-item.active a {
+    color: white;
+}
+
+ul.list-group {
+    width: 100%;
+}
+
+.list-group-item {
+    min-width: 200px;
+    text-align: center;
+}

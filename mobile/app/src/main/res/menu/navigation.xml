@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/drones"
+        android:id="@+id/nav_drone"
+        app:showAsAction="never" />
+    <item
+        android:title="@string/fields"
+        android:id="@+id/nav_field"
+        app:showAsAction="never" />
+    <item
+        android:title="@string/flights"
+        android:id="@+id/nav_flight"
+        app:showAsAction="never" />
+</menu>

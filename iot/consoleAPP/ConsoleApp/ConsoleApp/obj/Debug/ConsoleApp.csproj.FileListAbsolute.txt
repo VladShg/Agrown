@@ -1,0 +1,6 @@
+C:\Users\VladSh\Desktop\АПЗ\IOT\consoleAPP\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\VladSh\Desktop\АПЗ\IOT\consoleAPP\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\VladSh\Desktop\АПЗ\IOT\consoleAPP\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\VladSh\Desktop\АПЗ\IOT\consoleAPP\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\VladSh\Desktop\АПЗ\IOT\consoleAPP\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\VladSh\Desktop\АПЗ\IOT\consoleAPP\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb

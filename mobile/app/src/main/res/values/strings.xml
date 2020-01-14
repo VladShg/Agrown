@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">AgrownApp</string>
+    <string name="title_activity_login">Log in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_signup">Sign up</string>
+    <string name="agrown">Agrown</string>
+    <string name="login_field">Login</string>
+    <string name="password_field">Password</string>
+    <string name="password_confirm_field">Confirm password</string>
+    <string name="email_field">Email</string>
+    <string name="login">Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login_empty">Login can not be empty</string>
+    <string name="password_mismatch">Passwords do not match</string>
+    <string name="email_empty">Email can not be empty</string>
+    <string name="email_wrong">Email is not valid</string>
+    <string name="password_empty">Passwords can not be empty</string>
+    <string name="signup_link">Create\nnew account</string>
+    <string name="login_link">Log in to\nexisting account</string>
+    <string name="language_link">Change language</string>
+    <string name="title_activity_main_menu">Home</string>
+    <string name="drones">Drones</string>
+    <string name="flights">Flights</string>
+    <string name="fields">Fields</string>
+    <string name="title_activity_menu_drawer">MenuDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="wrong_credentials">Invalid credentials</string>
+    <string name="english">English</string>
+    <string name="ukrainian">Ukrainian</string>
+    <string name="add_drone">Add drone</string>
+    <string name="name">Name</string>
+    <string name="model">Model</string>
+    <string name="code">Code</string>
+    <string name="created">Created</string>
+    <string name="model_not_found">Model not found. Use one of: </string>
+    <string name="field_no_empty">Field cannot be empty</string>
+
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="title_activity_navigation">Navigation</string>
+</resources>
